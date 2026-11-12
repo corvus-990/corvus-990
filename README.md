@@ -1,9 +1,14 @@
 # Hi there 👋
 
-I'm Achraf Benchoubane, a second-year Computer Science student at the University of Sharjah, UAE (graduating 2029).
+I'm Achraf Benchoubane, a Computer Science undergraduate at the University of Sharjah, UAE[cite: 1].
 
-I work on embedded systems and systems programming in C and C++, and I like building things from the datasheet up.
+I'm particularly interested in systems programming and embedded systems[cite: 1].
 
-**Next up:** adding a vector table and timer interrupts to my bare-metal Raspberry Pi Pico project.
+My primary programming languages are C and C++[cite: 1]. I'm currently focused on strengthening my foundations in low-level programming and understanding how software interacts with hardware and operating systems[cite: 1].
 
-**Looking for:** internships in firmware and embedded software. Reach me on [LinkedIn](https://www.linkedin.com/in/achraf-benchoubane).
+## Interests
+
+* Systems Programming
+* Embedded Systems
+* Computer Architecture
+* Low-level Software[cite: 1]
