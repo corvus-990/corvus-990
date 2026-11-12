@@ -12,3 +12,5 @@ My primary programming languages are C and C++. I'm currently focused on strengt
 * Embedded Systems
 * Computer Architecture
 * Low-level Software
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Achraf_Benchoubane-0A66C2)](https://www.linkedin.com/in/achraf-benchoubane)
